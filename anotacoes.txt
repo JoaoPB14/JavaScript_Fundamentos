@@ -1,0 +1,22 @@
+variaveis
+
+var = deixou de ser usado
+
+let = Valores que podem se alterar (um contador por exemplo)
+const = Valores que nunca se alteram
+
+-----
+
+string " ", ' ' e ` `
+
+-----
+
+Operadores do JavaScript
+
+Adição +                                menor que <
+Subtração -                             maior que >
+Multiplicação *                         igual á ===
+Divisão /                               diferente de !==
+Resto da divisão %                      ou ||
+Exponenciação(Potência) **              e &&
+
